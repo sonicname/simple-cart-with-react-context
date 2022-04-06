@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/simple-cart-with-react-context/static/css/main.5cdd93f8.css",
+    "main.js": "/simple-cart-with-react-context/static/js/main.5b5cecf9.js",
+    "static/js/267.db403134.chunk.js": "/simple-cart-with-react-context/static/js/267.db403134.chunk.js",
+    "static/js/145.4be906be.chunk.js": "/simple-cart-with-react-context/static/js/145.4be906be.chunk.js",
+    "static/js/787.bbf6a124.chunk.js": "/simple-cart-with-react-context/static/js/787.bbf6a124.chunk.js",
+    "index.html": "/simple-cart-with-react-context/index.html",
+    "main.5cdd93f8.css.map": "/simple-cart-with-react-context/static/css/main.5cdd93f8.css.map",
+    "main.5b5cecf9.js.map": "/simple-cart-with-react-context/static/js/main.5b5cecf9.js.map",
+    "267.db403134.chunk.js.map": "/simple-cart-with-react-context/static/js/267.db403134.chunk.js.map",
+    "145.4be906be.chunk.js.map": "/simple-cart-with-react-context/static/js/145.4be906be.chunk.js.map",
+    "787.bbf6a124.chunk.js.map": "/simple-cart-with-react-context/static/js/787.bbf6a124.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5cdd93f8.css",
+    "static/js/main.5b5cecf9.js"
+  ]
+}
